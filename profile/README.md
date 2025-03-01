@@ -13,6 +13,6 @@
     <img src="showcase/flatout.png" alt="Description" width="25%" height="auto">
   </a>
   <a href="https://www.youtube.com/watch?v=Bww0deh7Rbo">
-    <img src="showcase/dalgona.png" alt="Description" width="25%" height="auto">
+    <img src="showcase/level5.png" alt="Description" width="25%" height="auto">
   </a>
 </div>
